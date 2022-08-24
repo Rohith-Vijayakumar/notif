@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "312660476887",
+    "project_id": "notif-b5bfa",
+    "storage_bucket": "notif-b5bfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312660476887:android:83a3165f1edbe7779bc192",
+        "android_client_info": {
+          "package_name": "com.notif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312660476887-4pufem1rj4k0g9irjpdvarihkqvsms5k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.notif",
+            "certificate_hash": "4d754f13a3c14bb0f031ddbd8ebedeafd5f2a4dd"
+          }
+        },
+        {
+          "client_id": "312660476887-1ec4d3knng4u72ohpe50juv1epl926lf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-WBiT-gQYYFv2WhXlyhaDUysqCYBOU9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312660476887-1ec4d3knng4u72ohpe50juv1epl926lf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
